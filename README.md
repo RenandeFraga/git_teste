@@ -14,3 +14,5 @@
 * comando git push
 
 * comando git pull
+
+* Comando git fetch
