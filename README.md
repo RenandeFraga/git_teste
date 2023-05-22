@@ -7,3 +7,6 @@
 
 
 # Salvando outras modificações no Git
+
+
+* uso do comando git restore
